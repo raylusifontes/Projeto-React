@@ -1,0 +1,56 @@
+.container-table{
+    width: 90%;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.link{
+    border-style: none;
+    text-decoration: none;
+    padding: 3px;
+    color: blue;
+}
+button{
+    border-style: none;
+    text-decoration: none;
+    padding: 3px;
+    color: red;
+    background-color: white;
+}
+.opcoes{
+    display: flex;
+}
+.op2{
+    margin-left: 40px;
+}
+table, th, td, thead, tbody{
+    border: 2px solid green;
+    padding: 10px;
+}
+
+.botao{
+    background-color: rgb(69, 185, 69);
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 5px;
+    padding-bottom: 4px;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+.botao1{
+    padding: 6px;
+    background-color: rgb(69, 185, 69);
+    color:black;
+    text-decoration: none;
+    border: 2px solid black;
+}
+.botao1:hover{
+    color: black;
+}
+.formUpdate{
+    display: flex;
+    flex-direction: column;
+}
+.negrita{
+    font-weight: bold;
+}

@@ -1,0 +1,28 @@
+{
+  "contatos": [
+    {
+      "nome": "John Doe",
+      "email": "john@doe.email",
+      "telefone": "40078125",
+      "id": 1
+    },
+    {
+      "nome": "Foo Bar",
+      "email": "john@doe.email",
+      "telefone": "11847985",
+      "id": 2
+    },
+    {
+      "nome": "Francy",
+      "email": "f@gmail.com",
+      "telefone": "800654",
+      "id": 3
+    },
+    {
+      "nome": "Raylu",
+      "email": "sulyar@yahoo.com",
+      "telefone": "12345",
+      "id": 4
+    }
+  ]
+}
